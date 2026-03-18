@@ -1,0 +1,11 @@
+- title: 📚 Java
+  children:
+    - title: 📖 开始阅读
+      url: /books/design pattern/
+
+    - title: 第一章 介绍
+      children:
+        - title: 本章说明
+          url: /books/design pattern/chapter1/
+        - title: 介绍
+          url: /books/design pattern/chaptner1/设计模式介绍
